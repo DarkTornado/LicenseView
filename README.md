@@ -1,0 +1,2 @@
+# LicenseView
+LicenseView for Android
