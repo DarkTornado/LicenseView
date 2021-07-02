@@ -1,2 +1,5 @@
 # LicenseView
-LicenseView for Android
+
+© 2021 Dark Tornado, All rights reserved.
+
+* LicenseView for Android.
